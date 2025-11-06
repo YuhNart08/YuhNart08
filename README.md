@@ -1,4 +1,4 @@
-<h1 style="color: blue;">Hello. my name is Huy👈</h1>
+<h1 style="color: blue;">Hello everyone, i'm Daniel</h1>
 <h3>I’m currently studying at:</h3>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_PTIT.jpg"c alt="ptit logo" width="40" height="40">
 <h3>Languages & Frameworks:</h3>
